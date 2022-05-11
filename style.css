@@ -1,0 +1,92 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+*{
+  margin: 0px;
+}
+
+.bongsaa{
+  margin-left: -30px;
+  margin: 0px;
+  width:200px; height:40px;
+  background: rgb(137, 184, 255);
+  border-radius: 10px;
+  float: left;
+}
+
+
+.gibua{ 
+  margin-left: 30px;
+  margin-bottom: 20px;
+  
+  width:200px; height:40px;
+  background: rgb(137, 184, 255);
+  border-radius: 10px;
+  float: left;
+}
+
+.top{
+  margin: 0%;
+  background:#ffd000;
+  padding-top: 20px;
+  padding-bottom: 7px;
+  height: 55px;
+}
+
+/* .tophr{
+  background:#ff9500;
+  height:5px;
+  margin-bottom: 10px;
+} */
+
+.title{
+  margin-left: 30px;
+  font-size: 48px;
+  font-weight:700;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.detail{
+  font-size:25px;
+  margin-left:30px;
+  margin-top:30px;
+}
+.down-detail{
+  font-size:15px;
+  margin-left:50px;
+  margin-top:10px;
+  margin-bottom:5px;
+  color:#666666;
+}
+.detail-1{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.detail-2{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.detail-3{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+a{
+  margin-left:50px;
+  font-size:15px;
+}
+
+.top-detail{
+  margin-left:30px;
+}
+
+
+top-detail::marker{
+  margin:0px;
+}
+
